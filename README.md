@@ -5,9 +5,18 @@ Network Science 23/24 course project
 
 - python version >= 3.9
 
-## Creating python environment
+## Installing
 
-- python3 -m venv group6
-- source group6/bin/activate
-- pip install -r requirements.txt
+### Creating env
 
+```
+python3 -m venv group6
+
+source group6/bin/activate
+```
+
+### Installing python libraries in env
+
+```
+pip install -r requirements.txt
+```
